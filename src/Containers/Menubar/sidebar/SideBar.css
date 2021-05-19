@@ -1,0 +1,25 @@
+.sidebar{
+    color:#9898A7;
+    background-color:#FFFFFF;
+    flex:0.3;
+    left:0;
+    margin-right:5px;
+    margin-top:10px;
+    border-right:3px solid #F3F3F3;
+    padding:10px;
+    max-width: 260px;
+}
+.sidebar>p{
+    color:#9898A7;
+    align-items: center;
+    font-size: 14px;
+}
+.sidebar>p:hover{
+        color:#D8A10F;
+        background-color: transparent;
+}
+.sidebar>p>.MuiSvgIcon-root{
+   color:#00529C;
+   align-items:center;
+
+}
